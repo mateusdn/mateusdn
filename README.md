@@ -5,7 +5,7 @@
 
 Repositórios:
  * <a href="https://github.com/mateusdn/homelab/">Introdução - Windows Server / Hyper-V / Active Directory</a>
- * <a href="https://github.com/mateusdn/homelab/">PowerShell</a>
+ * <a href="https://github.com/mateusdn/homelab/">?</a>
  * <a href="https://github.com/mateusdn/linux-minecraft-server">Linux Minecraft Server</a>
 
 
