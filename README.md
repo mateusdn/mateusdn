@@ -6,8 +6,6 @@
 <br>
 
 ## 💻 projects:
-* <a href="https://github.com/mateusdn">Apollo in Outer Space</a>
-* <a href="https://github.com/mateusdn">Jornada do Acolhimento</a>
 * <a href="https://www.artstation.com/matd2d"> Artstation </a>
 <br>
 <a href="https://www.artstation.com/matd2d">
