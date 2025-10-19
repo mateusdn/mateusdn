@@ -1,6 +1,6 @@
-Detail-oriented IT trainee with experience in Microsoft 365, AD, and Help Desk operations. Holds degrees in Computer Science and Game Development, with a focus on cybersecurity.
+Detail-oriented IT trainee with experience in Microsoft 365, AD, and Help Desk operations with a focus on cybersecurity. Holds degrees in Computer Science and Game Development.
 
-## Dados:
+## Projects:
 * <a href="https://github.com/mateusdn/tableau-aircraft/tree/main">Dashboard Tableau</a>
 
 ## Infra:
