@@ -7,11 +7,11 @@
 
 ## 💻 projects:
 * <a href="https://github.com/mateusdn"> TCC // SQL Game </a>
-* <a href="https://github.com/mateusdn/website?tab=readme-ov-file"> Website </a>
-* <a href="https://github.com/mateusdn/powershell"> PowerShell </a>
-* <a href="https://www.artstation.com/matd2d"> Artstation </a>
-* <a href="https://www.artstation.com/matd2d"> Apollo in Outer Space </a>
-* <a href="https://www.artstation.com/matd2d"> Jornada do Acolhimento </a>
+* <a href="https://github.com/mateusdn"> Website </a>
+* <a href="https://github.com/mateusdn"> PowerShell </a>
+* <a href="https://github.com/mateusdn"> Artstation </a>
+* <a href="https://github.com/mateusdn"> Apollo in Outer Space </a>
+* <a href="https://github.com/mateusdn"> Jornada do Acolhimento </a>
 
 <br>
 <a href="https://www.artstation.com/matd2d">
