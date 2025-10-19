@@ -1,21 +1,13 @@
 ``` Detail-oriented IT trainee with experience in Active Directory, Help Desk operations, VoIP systems (3CX), CCTV and Microsoft 365 Administration with a focus on cybersecurity. Holds degrees in Computer Science and Game Development. ```
 
+## 💻:
+
 <a href="https://github.com/mateusdn">
   <img src="https://cdnb.artstation.com/p/assets/images/images/057/918/041/large/mateus-m-1.jpg?1673102532" alt="MasterHead" width="250">
 </a>
-<br>
 
-## 💻 projects:
-* <a href="https://github.com/mateusdn"> TCC // SQL Game </a>
-* <a href="https://github.com/mateusdn"> PowerShell </a>
-* <a href="https://github.com/mateusdn"> Artstation </a>
-* <a href="https://github.com/mateusdn"> Apollo in Outer Space </a>
-* <a href="https://github.com/mateusdn"> Jornada do Acolhimento </a>
 
-<br>
-<a href="https://www.artstation.com/matd2d">
-  <img src="https://cdnb.artstation.com/p/assets/images/images/056/226/281/original/mateus-m-cc.gif?1668735319" alt="MasterHead" width="400">
-</a>
+
 
 
 `😎🤙`
